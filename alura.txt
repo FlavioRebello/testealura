@@ -1,3 +1,4 @@
 teste novo diretorio Alura
 primeira alteração no arquivo
 segunda alteração no arquivo
++ alterações de teste
